@@ -1,2 +1,2 @@
-# CV
-Simple Resume built in HTML CSS only.
+# Responsive CV Design
+Simple CV built in HTML CSS only.
